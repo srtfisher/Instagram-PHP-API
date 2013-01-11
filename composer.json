@@ -1,0 +1,14 @@
+{
+    "name": "srtfisher / Instagram-PHP-API",
+    "description": "Composer support for cosenary/Instagram-PHP-API",
+    "version": "0.1",
+    "homepage": "http://cosenary.github.com/Instagram-PHP-API/",
+    "require": {
+        "php": ">=5.2"
+    },
+    "autoload": {
+        "classmap": [
+            "instagram.class.php"
+        ]
+    }
+}
